@@ -9,6 +9,9 @@ h1{
   
   border: 1px solid #000000;
   border-radius: 60px;
+  column-rule:  ;
+  font-family: sans-serif;  
+  word-wrap: ;
 }
 
 h5{

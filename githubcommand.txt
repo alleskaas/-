@@ -1,0 +1,20 @@
+instructies
+
+voor alles
+
+(git pull)
+git status
+git add -A
+git status
+git commit -m 'upload message'
+git status
+git push origin
+
+allen nodig
+
+(git pull)
+git add -A
+git commit -m 'nieuwe upload'
+git push origin
+
+

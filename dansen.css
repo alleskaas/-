@@ -29,8 +29,10 @@ th, td, table{
 
 
 
-body{
-	background-color:yellow;
+html{
+	background: url(https://static.vecteezy.com/system/resources/previews/000/093/696/original/vector-yellow-abstract-background.jpg) no-repeat center center;
+	background-size: ;
+  background-color: black;
 }
 
 
@@ -52,10 +54,7 @@ a{
 	text-decoration: underline;
 
 }
-html {
-	background: black;
-  link rel="icon" href="kaas icoon doorzigtig.png" 
-}
+
 
 iframe, video{
 	border-radius: 20%;
@@ -129,6 +128,7 @@ a.knop5 {
 a.knop5:hover {
 	background-color: rgb(0, 0, 255);  
 }
+
 
 
 

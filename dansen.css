@@ -1,5 +1,5 @@
 h1{
-	font-family:Verdana;
+	
 	color: black;
 	font-size:18px;
 	text-align:center;
@@ -8,9 +8,8 @@ h1{
   width:auto;
   
   border: 1px solid #000000;
-  border-radius: 60px;
+  border-radius: 50px;
   column-rule:  ;
-  font-family: sans-serif;  
   word-wrap: ;
 }
 
@@ -18,34 +17,49 @@ h5{
 	  text-decoration: underline;
     font-size: 18px;
 		color: blue;
-   	font-family:verdana;
 }
 
-th, td, table{
+th, td{
   border: 1px solid black;
-  text-align: left;
-	
+
 }
+
 
 table{
-	align:center;
-	width: 50%;
+  border: 3px solid black;
+	
+	color: black;
+	font-size:18px;
+	text-align:center;
+  display:inline-block;
+  padding: 3px;
+  width:auto;
+  
+  border: 1px solid #000000;
+  border-radius: ;
+  column-rule:  ;
+  word-wrap: ;
+    
 }
+
 
 
 
 html{
 	background: url(https://static.vecteezy.com/system/resources/previews/000/093/696/original/vector-yellow-abstract-background.jpg) no-repeat center center;
 
-  background-color: black;
+  background-color: yellow;
+	   font-family: Georgia, serif;
+		text-align: center;
 }
 
+/*
 
-body, h1, h5, img, a{
- 
+body, h1, h5, img, a, p, th, td, table, {
+   font-family: Georgia, serif; 
 	text-align: center;
 }
-
+*/
 
 img {
 	border-radius:;
@@ -77,61 +91,19 @@ a.knoppen {
 	margin-bottom: -20px;
 	color: #ffffff;
 	font-weight: bold; 
-
-  border-radius:;
 	text-decoration: none;
   width:auto;
+  background-color: black;
 
 }
 a.knoppen:hover {
 
   transition: 0.3s ease-in-out;
 	text-shadow: 1px 1px 10px white;
-}
-
-
-a.knop1 {
-	background-color: black;  
-}
-a.knop1:hover {
-	background-color: black;  
-}
-
-
-
-a.knop2 {
-  background-color: black;
-}
-a.knop2:hover {
   background-color: black;
 }
 
 
-
-a.knop3 {
-  background-color: black;
-}
-a.knop3:hover {
-  background-color: black;
-}
-
-
-
-a.knop4 {
-  background-color: black;
-}
-a.knop4:hover {
-  background-color: black;
-}
-
-
-
-a.knop5 {
-	background-color: black;  
-}
-a.knop5:hover {
-	background-color: black;  
-}
 
 
 

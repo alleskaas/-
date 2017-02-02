@@ -1,17 +1,23 @@
-h1{
+ h1{
 	
 	color: black;
 	font-size:18px;
 	text-align:center;
   display:inline-block;
   padding: 3px;
-  width:auto;
+  width: auto;
   
   border: 1px solid #000000;
   border-radius: 50px;
-  column-rule:  ;
-  word-wrap: ;
+
 }
+body.tippen{
+		text-align: center;
+  
+	margin-left: 300;
+	margin-right: 300;
+}
+
 
 h5{
 	  text-decoration: underline;
@@ -36,9 +42,7 @@ table{
   width:auto;
   
   border: 1px solid #000000;
-  border-radius: ;
-  column-rule:  ;
-  word-wrap: ;
+
     
 }
 
@@ -46,8 +50,9 @@ table{
 
 
 html{
-	background: url(https://static.vecteezy.com/system/resources/previews/000/093/696/original/vector-yellow-abstract-background.jpg) repeat-y center center;
+	background: url(background.jpg) repeat-y center center;
 
+ 
   background-color: #F5B700;
 	font-family: Georgia, serif;
 		text-align: center;
@@ -55,6 +60,7 @@ html{
 
 /*
 
+ url(https://static.vecteezy.com/system/resources/previews/000/093/696/original/vector-yellow-abstract-background.jpg)
 body, h1, h5, img, a, p, th, td, table, {
    font-family: Georgia, serif; 
 	text-align: center;
@@ -77,6 +83,11 @@ a{
 
 iframe, video{
 	border-radius:;
+}
+
+iframe.geborderd{
+
+  border-radius: 20px;
 }
 
 

@@ -1,219 +1,88 @@
- h1{
-	
-	color: black;
-	font-size:18px;
-	text-align:center;
-  display:inline-block;
-  padding: 3px;
-  width: auto;
-  
-  border: 1px solid #000000;
-  border-radius: 50px;
-
-}
-body.tippen{
-		text-align: center;
-  
-	margin-left: 300;
-	margin-right: 300;
-}
-
-
-h5{
-	  text-decoration: underline;
-    font-size: 18px;
-		color: blue;
-}
-
-th, td{
-  border: 1px solid black;
-
-}
-
-
-table{
-  border: 3px solid black;
-	
-	color: black;
-	font-size:18px;
-	text-align:center;
-  display:inline-block;
-  padding: 3px;
-  width:auto;
-  
-  border: 1px solid #000000;
-
-    
-}
-
-
-
-
-html{
-	background: url(background.jpg) repeat-y center center;
-
+ h1 {
+ 	color: black;
+ 	font-size: 18px;
+ 	text-align: center;
+ 	display: inline-block;
+ 	padding: 3px;
+ 	width: auto;
+ 	border: 1px solid #000000;
+ 	border-radius: 50px;
+ }
  
-  background-color: #F5B700;
-	font-family: Georgia, serif;
-		text-align: center;
-}
-
-/*
-
- url(https://static.vecteezy.com/system/resources/previews/000/093/696/original/vector-yellow-abstract-background.jpg)
-body, h1, h5, img, a, p, th, td, table, {
-   font-family: Georgia, serif; 
-	text-align: center;
-}
-*/
-
-img {
-	border-radius:;
-}
-
-a{
-	font-family:verdana;
-	color:red;
-	text-decoration: none;
-	font-size:18px;
-	text-decoration: underline;
-
-}
-
-
-iframe, video{
-	border-radius:;
-}
-
-iframe.geborderd{
-
-  border-radius: 20px;
-}
-
-
-
-
-a.knoppen {
-	display:-moz-inline-box;
-	display:inline-block;
-	text-transform: uppercase;
-	text-align: center;
-	padding: 20px;
-	margin-bottom: -20px;
-	color: #ffffff;
-	font-weight: bold; 
-	text-decoration: none;
-  width:auto;
-  background-color: black;
-
-}
-a.knoppen:hover {
-
-  transition: 0.3s ease-in-out;
-	text-shadow: 1px 1px 10px white;
-  background-color: black;
-}
-
-
-
-
-
-
-
-
-
-
-
-a.knop10 {
-  background-color: black;
-
-}
-
-a.knop10:hover {
-  background-color: black;
-
-	
-}
-/*
-
-.menu {
-	margin-left: 23px;
-	margin-bottom: 20px;
-	position: absolute; 
-	bottom: 0;
-	z-index: 999;
-}
-a.nav {
-	min-width: 130px;
-	display:-moz-inline-box;
-	display:inline-block;
-	text-transform: uppercase;
-	text-align: center;
-	padding: 20px;
-	margin-bottom: -20px;
-	color: #ffffff;
-	font-weight: bold; 
-  border: 5px solid #000000;
-  border-radius: 25px;
-	text-decoration: none;
-
-}
-
-a.nav:hover {
-
-  transition: 0.3s ease-in-out;
-	text-shadow: 1px 1px 10px white;
-  text-decoration: underline;
-  border: 5px solid #ffffff;
-	text-decoration: none;
-  
-	
-}
-
-
-
-
-
-
-.menu {
-	margin-left: 23px;
-	margin-bottom: 20px;
-	position: absolute; 
-	bottom: 0;
-	z-index: 999;
-}
-a.nav {
-	min-width: 130px;
-	display:-moz-inline-box;
-	display:inline-block;
-	text-transform: uppercase;
-	text-align: center;
-	padding: 20px;
-	margin-bottom: -20px;
-	color: #ffffff;
-	font-weight: bold;
-	border-top: 2px solid #ffffff;
-	border-right: 2px solid #ffffff;
-	border-left: 2px solid #ffffff;
-  
-  border: 2px solid #000000;
-	border-top-left-radius:     25px;
-	border-top-right-radius:    25px;
-  border-bottom-left-radius:  25px;
-  border-bottom-right-radius: 25px;
-
-}
-
-a.nav:hover {
-
-	text-shadow: 1px 1px 10px black;
-	
-}
-
-*/
-
-
-
-
-
-
+ div.smalletext {
+ 	text-align: center;
+ 	margin-left: 500;
+ 	margin-right: 500;
+ }
+ 
+ div.dikketext {}
+ 
+ h5 {
+ 	text-decoration: underline;
+ 	font-size: 18px;
+ 	color: blue;
+ }
+ 
+ th,
+ td {
+ 	border: 1px solid black;
+ }
+ 
+ table {
+ 	border: 3px solid black;
+ 	color: black;
+ 	font-size: 18px;
+ 	text-align: center;
+ 	display: inline-block;
+ 	padding: 3px;
+ 	width: auto;
+ 	border: 1px solid #000000;
+ }
+ 
+ html {
+ 	background: url(background.jpg) repeat-y center center;
+ 	background-color: #F5B700;
+ 	font-family: Georgia, serif;
+ 	text-align: center;
+ }
+ 
+ img {
+ 	border-radius: ;
+ }
+ 
+ a {
+ 	font-family: verdana;
+ 	color: red;
+ 	text-decoration: none;
+ 	font-size: 18px;
+ 	text-decoration: underline;
+ }
+ 
+ iframe,
+ video {
+ 	border-radius: ;
+ }
+ 
+ iframe.geborderd {
+ 	border-radius: 20px;
+ }
+ 
+ a.knoppen {
+ 	display: -moz-inline-box;
+ 	display: inline-block;
+ 	text-transform: uppercase;
+ 	text-align: center;
+ 	padding: 20px;
+ 	margin-bottom: -20px;
+ 	color: #ffffff;
+ 	font-weight: bold;
+ 	text-decoration: none;
+ 	width: auto;
+ 	background-color: black;
+ }
+ 
+ a.knoppen:hover {
+ 	transition: 0.3s ease-in-out;
+ 	text-shadow: 1px 1px 10px white;
+ 	background-color: black;
+ }
